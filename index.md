@@ -19,8 +19,17 @@ Manoa Forums is a web application where students at the University of Hawaii at 
 
 ### Landing Page
 
-
 The landing page explains that the forum is a place for people to connect discuss things related  to UH Manoa.
+
+Users can sign in or just view the forums if they want. Viewing forums would NOT require an account, though interacting with posts does.
 
 ![Landing Page](images/landingPage.png)
 *Landing Pack Mockup by Ethan Batin*
+
+### Sign In Page
+
+Ideally we'd want people to sign in using their UH accounts so that people actually in campus can interact with posts.
+
+If not though, we'll pivot and use accounts that are exclusive to the forums page, but for now, the idea is you sign in through UH.
+
+[Sign In](image/signIn.png)
