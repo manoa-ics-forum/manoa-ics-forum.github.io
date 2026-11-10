@@ -11,7 +11,7 @@ Manoa Forums is a web application where students at the University of Hawaii at 
 ### Project Links
 
 - [Manoa Forums GitHub Organization](https://github.com/manoa-ics-forum)
-- [Main Repository](https://github.com/ethanbatin/manoa-forums)
+- [Main Repository](https://github.com/manoa-ics-forum/manoa-forums)
 - [Documentation Repository](https://github.com/manoa-ics-forum/manoa-ics-forum.github.io)
 - [Team Contract](https://docs.google.com/document/d/1pRgygP2X1DNKAQy31okqEMjmKfQE7118Or0AJLBuzIY/edit?usp=sharing)
 
