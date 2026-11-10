@@ -32,4 +32,4 @@ Ideally we'd want people to sign in using their UH accounts so that people actua
 
 If not though, we'll pivot and use accounts that are exclusive to the forums page, but for now, the idea is you sign in through UH.
 
-[Sign In](image/signIn.png)
+[Sign In](images/signIn.png)
