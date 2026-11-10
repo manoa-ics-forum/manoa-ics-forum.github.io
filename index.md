@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Manoa Forums
 
 ## Overview
