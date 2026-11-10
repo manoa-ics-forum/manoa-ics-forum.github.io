@@ -10,6 +10,10 @@ Manoa Forums is a web application where students at the University of Hawaii at 
 
 ### Project Links
 
+Manoa Forums GitHub Organization
+Main Repository
+Documentation Repository
+
 ### Team Contract
 
 ## Page Mockups
