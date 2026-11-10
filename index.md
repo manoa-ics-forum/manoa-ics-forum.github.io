@@ -33,7 +33,7 @@ The landing page explains that the forum is a place for people to connect discus
 
 Users can sign in or just view the forums if they want. Viewing forums would NOT require an account, though interacting with posts does.
 
-![Landing Page](assets/images/images/landingPage.png)
+![Landing Page](assets/images/landingPage.png)
 *Landing Pack Mockup by Ethan Batin*
 
 ### Sign In Page
