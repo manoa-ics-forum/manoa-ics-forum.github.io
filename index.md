@@ -39,5 +39,13 @@ If not though, we'll pivot and use accounts that are exclusive to the forums pag
 This page is dedicated to showing all the posts which are sorted from most liked / most interacted with.
 There should be features to search for posts with keywords and to search by week, month or year.
 Posts show the author, the topic of the post, how much likes a post has, it's title and some of the contents, etc.
+This page should also have a create post button, but I forgot to add that.
+This example shows posts made by students but the school could also use the forums for announcements and such.
 
 ![Open Forums](images/forums.png)
+
+### Creating Post Page
+
+This page is dedicated to creating a post before publishing one. Creating a post requires an account.
+
+![Create Post](images/createPost.png)
