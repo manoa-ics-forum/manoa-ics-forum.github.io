@@ -4,10 +4,9 @@ title: Manoa Forums
 ---
 
 <section class="hero">
-  <p class="hero-eyebrow">A student community for UH Mānoa</p>
+  <p class="hero-eyebrow">A community for UH Mānoa</p>
   <h1>Manoa Forums</h1>
-  <p class="hero-summary">Connect, share ideas, and discuss academics, campus life, and experiences across Hawaiʻi.</p>
-  <a class="hero-link" href="https://github.com/manoa-ics-forum/manoa-forums">Explore the project</a>
+  <p class="hero-summary">Connect, share ideas, and discuss academics, campus life, and experiences in Hawaiʻi.</p>
 </section>
 
 ## Overview
@@ -34,7 +33,7 @@ The landing page explains that the forum is a place for people to connect discus
 
 Users can sign in or just view the forums if they want. Viewing forums would NOT require an account, though interacting with posts does.
 
-![Landing Page](images/landingPage.png)
+![Landing Page](assets/images/images/landingPage.png)
 *Landing Pack Mockup by Ethan Batin*
 
 ### Sign In Page
@@ -43,7 +42,7 @@ Ideally we'd want people to sign in using their UH accounts so that people actua
 
 If not though, we'll pivot and use accounts that are exclusive to the forums page, but for now, the idea is you sign in through UH.
 
-![Sign In](images/signInPage.png)
+![Sign In](assets/images/signInPage.png)
 *Landing Pack Mockup by Ethan Batin*
 
 ### Open Forums Page
@@ -54,19 +53,19 @@ Posts show the author, the topic of the post, how much likes a post has, it's ti
 This page should also have a create post button, but I forgot to add that.
 This example shows posts made by students but the school could also use the forums for announcements and such.
 
-![Open Forums](images/forums.png)
+![Open Forums](assets/images/forums.png)
 *Landing Pack Mockup by Ethan Batin*
 
 ### Creating Post Page
 
 This page is dedicated to creating a post before publishing one. Creating a post requires an account.
 
-![Create Post](images/createPost.png)
+![Create Post](assets/images/createPost.png)
 *Landing Pack Mockup by Ethan Batin*
 
 ### Viewing Post Page
 
 What viewing a post would look like
 
-![View Post](images/viewPost.png)
+![View Post](assets/images/viewPost.png)
 *Landing Pack Mockup by Ethan Batin*
