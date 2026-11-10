@@ -1,6 +1,14 @@
 ---
 layout: default
+title: Manoa Forums
 ---
+
+<section class="hero">
+  <p class="hero-eyebrow">A student community for UH Mānoa</p>
+  <h1>Manoa Forums</h1>
+  <p class="hero-summary">Connect, share ideas, and discuss academics, campus life, and experiences across Hawaiʻi.</p>
+  <a class="hero-link" href="https://github.com/manoa-ics-forum/manoa-forums">Explore the project</a>
+</section>
 
 ## Overview
 
