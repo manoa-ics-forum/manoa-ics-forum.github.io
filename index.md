@@ -33,3 +33,11 @@ Ideally we'd want people to sign in using their UH accounts so that people actua
 If not though, we'll pivot and use accounts that are exclusive to the forums page, but for now, the idea is you sign in through UH.
 
 ![Sign In](images/signInPage.png)
+
+### Open Forums Page
+
+This page is dedicated to showing all the posts which are sorted from most liked / most interacted with.
+There should be features to search for posts with keywords and to search by week, month or year.
+Posts show the author, the topic of the post, how much likes a post has, it's title and some of the contents, etc.
+
+![Open Forums](images/forums.png)
