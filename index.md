@@ -23,3 +23,4 @@ Manoa Forums is a web application where students at the University of Hawaii at 
 The landing page explains that the forum is a place for people to connect discuss things related  to UH Manoa.
 
 ![Landing Page](images/landingPage.png)
+*Landing Pack Mockup by Ethan Batin*
