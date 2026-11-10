@@ -49,3 +49,9 @@ This example shows posts made by students but the school could also use the foru
 This page is dedicated to creating a post before publishing one. Creating a post requires an account.
 
 ![Create Post](images/createPost.png)
+
+### Viewing Post Page
+
+What viewing a post would look like
+
+![View Post](images/viewPost.png)
